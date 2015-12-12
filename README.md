@@ -5,15 +5,15 @@ screenshots
 -----------------------
 <img alt="one" src="https://raw.github.com/charsdavy/tomcat/master/screenshots/tomcat.jpg" width="180">
 &nbsp;&nbsp;
-<img alt="one" src="https://raw.github.com/charsdavy/tomcat/master/screenshots/tomcat2.jpg" width="180">
+<img alt="one" src="https://raw.github.com/charsdavy/tomcat/master/screenshots/tomcat2.png" width="180">
 &nbsp;&nbsp;
-<img alt="one" src="https://raw.github.com/charsdavy/tomcat/master/screenshots/tomcat3.jpg" width="180">
+<img alt="one" src="https://raw.github.com/charsdavy/tomcat/master/screenshots/tomcat3.png" width="180">
 &nbsp;&nbsp;
-<img alt="one" src="https://raw.github.com/charsdavy/tomcat/master/screenshots/tomcat4.jpg" width="180">
+<img alt="one" src="https://raw.github.com/charsdavy/tomcat/master/screenshots/tomcat4.png" width="180">
 &nbsp;&nbsp;
-<img alt="one" src="https://raw.github.com/charsdavy/tomcat/master/screenshots/tomcat5.jpg" width="180">
+<img alt="one" src="https://raw.github.com/charsdavy/tomcat/master/screenshots/tomcat5.png" width="180">
 &nbsp;&nbsp;
-<img alt="one" src="https://raw.github.com/charsdavy/tomcat/master/screenshots/tomcat6.jpg" width="180">
+<img alt="one" src="https://raw.github.com/charsdavy/tomcat/master/screenshots/tomcat6.png" width="180">
 &nbsp;&nbsp;
 
 #Blog
