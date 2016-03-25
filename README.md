@@ -10,8 +10,6 @@ This is tomcat code.
 &nbsp;&nbsp;
 <img src="https://raw.github.com/charsdavy/tomcat/master/screenshots/tomcat4.png" width="180">
 &nbsp;&nbsp;
-<img src="https://raw.github.com/charsdavy/tomcat/master/screenshots/tomcat5.png" width="180">
-&nbsp;&nbsp;
 <img src="https://raw.github.com/charsdavy/tomcat/master/screenshots/tomcat6.png" width="180">
 &nbsp;&nbsp;
 
