@@ -2,9 +2,7 @@
 This is tomcat code.
 
 # Screenshots
-<img alt="one" src="https://raw.github.com/charsdavy/tomcat/master/screenshots/about.gif" width="200">
-&nbsp;&nbsp;
-<img alt="one" src="https://raw.github.com/charsdavy/MySrc/master/images/xiaoniu.png" width="180">
+<img src="https://raw.github.com/charsdavy/tomcat/master/screenshots/about.gif" width="200">
 &nbsp;&nbsp;
 
 # Blog
